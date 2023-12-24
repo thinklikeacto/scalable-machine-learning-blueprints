@@ -33,7 +33,7 @@ We are particularly interested in contributions in the following areas:
 
 ## Getting Started
 
-To get started, check out our [Contribution Guidelines](CONTRIBUTION_GUIDELINES_LINK) and [Code of Conduct](CODE_OF_CONDUCT_LINK). These documents provide detailed instructions and important policies.
+To get started, clone the repository, explore the projects, and see where you can contribute:
 
 ## Community and Support
 
